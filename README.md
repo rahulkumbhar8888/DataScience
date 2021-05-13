@@ -1,2 +1,2 @@
-# DataScience
-All Data for data science course
+# DSB7
+Code Repository for Data Science Batch
